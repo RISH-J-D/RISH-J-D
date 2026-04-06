@@ -12,7 +12,7 @@
 
 <!-- Hero Banner / Intro GIF -->
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm05aXJqOGxsN2ZnM2x2bXZxN3YzYzJsOW1jNjVkdnZkbGdkM3RkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" align="center" height="400" width="1000" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczZHJ6cG1pY283Z20yZDEyaTMydmphNWl6dWpsMXdiYzJ5ajN1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/200.gif" align="center" height="500" width="1200" />
 </div>
 
 <br/>
