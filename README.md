@@ -196,7 +196,7 @@
 ## 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISH-J-D&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RISH-J-D&align="center"/>
 </p>
 
 <p align="center">
